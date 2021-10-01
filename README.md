@@ -1,3 +1,17 @@
+
+If you want to create your own token, simply follow the below code, and importantly do the following:
+In the Constructor Arguments section: Input
+
+-----Decoded View---------------
+Arg [0] : name (string): YourTokenName
+Arg [1] : symbol (string): YourAbbreviatedSymbolName
+Arg [2] : decimals (uint8): Input2HereForStandard 
+Arg [3] : initialSupply (uint256): InputDesiredNumberOfTokens
+
+
+
+
+
 # buttonmaker.xyz
 
 # Ropsten Testnet Deploy
